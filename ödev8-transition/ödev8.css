@@ -1,0 +1,19 @@
+.btn-1{
+    background-color: rgb(121, 109, 109);
+    color: whitesmoke;
+    margin: 200px 20px 100px 200px;
+    padding: 10px 40px;
+    border-radius: 20px;
+    
+    transition: background-color, transform 1s linear;
+    cursor: pointer;
+    
+}
+.btn-1:hover{
+    transform: translateX(100%);
+
+    background-color: rgb(227, 152, 23);
+    color: black;
+    cursor: pointer;
+
+}

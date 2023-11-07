@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.search-bar{
+    margin: 100px;
+    display: inline-block;
+    position: relative;
+    
+}
+.search-bar input{
+    padding: 0.5rem;
+    width: 15rem;
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+}
+.search-bar i{
+    position: absolute;
+    left: 235px;
+    top: 12px;
+
+}
